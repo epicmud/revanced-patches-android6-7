@@ -11,7 +11,7 @@ If you really want to try, here's how to do it.
 7. Open RVX. Follow the instruction to wait for server side layouts, then click the restart button after 10 seconds.
 8. Go to settings > app version spoofing. First, enable Freeze layout updates, then restart. Next go back to settings and enable spoof app version. Click cancel, and change spoof app version target to 19.05.36. Hit restart.
 9. Go back to settings, and click Edit spoof app version. Change it to 20.23.40, the last working version. Restart.
-## Success! You now have a partially broken, but still workinng YouTube app.
+## Success! You now have a partially broken, but still working YouTube app.
 # You probably shouldn't rely on this, though... Here are some alternatives:
 ## NouTube
 Webview wrapper. Did not work for me, but might for you. minimum version is android 7+
